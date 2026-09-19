@@ -28,5 +28,3 @@ DNS ayarlarini konteyner baslatilirken vermek icin:
 ```powershell
 docker run --name admanager -it -p 8080:8080 --dns <DC_IP> --dns 192.168.1.1 --dns-search <domain_adi> 326229903/admanager
 ```
-
-docker run --name admanager -it -p 8080:8080 --dns <DC_IP> --dns 192.168.1.1 --dns-search <domain_adi> 326229903/admanager
