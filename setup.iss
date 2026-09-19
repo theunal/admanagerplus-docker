@@ -1,0 +1,46 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-DlgOrder]
+Dlg0={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdWelcome-0
+Count=8
+Dlg1={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdLicenseRtf-0
+Dlg2={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdAskDestPath-0
+Dlg3={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-AskText-0
+Dlg4={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdSelectFolder-0
+Dlg5={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdShowMailPanel-20319
+Dlg6={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdStartCopy-0
+Dlg7={CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdFinish-0
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdWelcome-0]
+Result=1
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdLicenseRtf-0]
+Result=1
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdAskDestPath-0]
+szDir=C:\Program Files\ManageEngine\ADManager Plus
+Result=1
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-AskText-0]
+szText=8080
+Result=1
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdSelectFolder-0]
+szFolder=ADManager Plus
+Result=1
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdShowMailPanel-20319]
+Name=gfdsf
+MailId=dfdg@gmail.com
+Phone=' '
+Company=' '
+Country=Bhutan
+Result=1
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdStartCopy-0]
+Result=1
+[Application]
+Name=ADManager Plus
+Version=8.0
+Company=Zoho Corporation Pvt. Ltd.
+Lang=0409
+[{CC00BC3F-40AE-49A7-BA63-FE2F93D20585}-SdFinish-0]
+Result=1
+bOpt1=0
+bOpt2=1
